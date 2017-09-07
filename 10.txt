@@ -1,2 +1,4 @@
 code to install c
 code to install .net
+code to install java
+
